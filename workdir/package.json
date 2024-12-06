@@ -1,0 +1,22 @@
+{
+  "name": "@lfalanga/workdir",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Leandro Falanga",
+  "license": "ISC",
+  "description": "How to npm.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfalanga/workdir.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/lfalanga/workdir/issues"
+  },
+  "homepage": "https://github.com/lfalanga/workdir#readme"
+}
