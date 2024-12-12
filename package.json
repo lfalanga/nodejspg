@@ -2,6 +2,11 @@
   "dependencies": {
     "bl": "^6.0.16",
     "concat-stream": "^2.0.0",
-    "through2-map": "^4.0.0"
+    "duplexer2": "^0.1.4",
+    "split2": "^4.2.0",
+    "through2": "^4.0.2",
+    "through2-map": "^4.0.0",
+    "trumpet": "^1.6.3",
+    "ws": "^8.18.0"
   }
 }
